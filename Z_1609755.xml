@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Datei Name="Z_1609755.xml">
+  <SchweissPutzDaten Name="Z_1609755">
+    <Fensterdaten FensterNr="1" Bezeichnung="Rama" Kommission="16/09755" Position="1" Breite="1200" Hoehe="1200" Barcode="000191300100109">
+      <FensterTeiledaten FensterNr="1" TeileNr="1" WagenNr="1" FachNr="0" ProfilName="101233" Bezeichnung="101.233 RAMA OKR BIALY" Laenge="1200">
+        <FensterWerkzeugdaten TeileNr="1">
+          <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="1" TeileNr="2" WagenNr="1" FachNr="0" ProfilName="101233" Bezeichnung="101.233 RAMA OKR BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="15" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="17" XPos="600" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="629.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="16" XPos="975" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="1" TeileNr="3" WagenNr="1" FachNr="0" ProfilName="101233" Bezeichnung="101.233 RAMA OKR BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="238.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="388.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="629.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="812.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="962.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="975" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="1" TeileNr="4" WagenNr="1" FachNr="0" ProfilName="101233" Bezeichnung="101.233 RAMA OKR BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="2" Bezeichnung="Rama" Kommission="16/09755" Position="1" Breite="1200" Hoehe="1200" Barcode="000191300100202">
+      <FensterTeiledaten FensterNr="2" TeileNr="1" WagenNr="1" FachNr="0" ProfilName="101233" Bezeichnung="101.233 RAMA OKR BIALY" Laenge="1200">
+        <FensterWerkzeugdaten TeileNr="1">
+          <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="2" TeileNr="2" WagenNr="1" FachNr="0" ProfilName="101233" Bezeichnung="101.233 RAMA OKR BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="15" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="17" XPos="600" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="629.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="16" XPos="975" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="2" TeileNr="3" WagenNr="1" FachNr="0" ProfilName="101233" Bezeichnung="101.233 RAMA OKR BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="238.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="388.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="629.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="812.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="962.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="975" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="2" TeileNr="4" WagenNr="1" FachNr="0" ProfilName="101233" Bezeichnung="101.233 RAMA OKR BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="3" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="1" Breite="1123" Hoehe="548" Barcode="000191300100113">
+      <FensterTeiledaten FensterNr="3" TeileNr="1" WagenNr="1" FachNr="1" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="3" TeileNr="2" WagenNr="1" FachNr="1" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="323" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="3" TeileNr="3" WagenNr="1" FachNr="1" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="199.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="349.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="323" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="3" TeileNr="4" WagenNr="1" FachNr="1" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="4" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="1" Breite="1123" Hoehe="548" Barcode="000191300100127">
+      <FensterTeiledaten FensterNr="4" TeileNr="1" WagenNr="1" FachNr="2" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="4" TeileNr="2" WagenNr="1" FachNr="2" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="323" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="4" TeileNr="3" WagenNr="1" FachNr="2" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="199.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="349.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="323" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="4" TeileNr="4" WagenNr="1" FachNr="2" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="5" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="1" Breite="1123" Hoehe="548" Barcode="000191300100216">
+      <FensterTeiledaten FensterNr="5" TeileNr="1" WagenNr="1" FachNr="1" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="5" TeileNr="2" WagenNr="1" FachNr="1" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="323" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="5" TeileNr="3" WagenNr="1" FachNr="1" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="199.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="349.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="323" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="5" TeileNr="4" WagenNr="1" FachNr="1" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="6" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="1" Breite="1123" Hoehe="548" Barcode="000191300100220">
+      <FensterTeiledaten FensterNr="6" TeileNr="1" WagenNr="1" FachNr="2" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="6" TeileNr="2" WagenNr="1" FachNr="2" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="323" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="6" TeileNr="3" WagenNr="1" FachNr="2" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="199.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="349.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="323" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="6" TeileNr="4" WagenNr="1" FachNr="2" ProfilName="103115" Bezeichnung="103.115 SKRZ S-LINE BIALY" Laenge="548"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="7" Bezeichnung="Rama" Kommission="16/09755" Position="3" Breite="1200" Hoehe="1200" Barcode="000191300300109">
+      <FensterTeiledaten FensterNr="7" TeileNr="1" WagenNr="1" FachNr="0" ProfilName="140301" Bezeichnung="140 001 RAMA BIALY" Laenge="1200">
+        <FensterWerkzeugdaten TeileNr="1">
+          <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="7" TeileNr="2" WagenNr="1" FachNr="0" ProfilName="140301" Bezeichnung="140 001 RAMA BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="15" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="17" XPos="600" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="43" XPos="586.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="43" XPos="613.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="16" XPos="975" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="7" TeileNr="3" WagenNr="1" FachNr="0" ProfilName="140301" Bezeichnung="140 001 RAMA BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="237.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="387.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="43" XPos="586.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="43" XPos="613.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="813.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="963.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="975" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="7" TeileNr="4" WagenNr="1" FachNr="0" ProfilName="140301" Bezeichnung="140 001 RAMA BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="8" Bezeichnung="Rama" Kommission="16/09755" Position="3" Breite="1200" Hoehe="1200" Barcode="000191300300202">
+      <FensterTeiledaten FensterNr="8" TeileNr="1" WagenNr="1" FachNr="0" ProfilName="140301" Bezeichnung="140 001 RAMA BIALY" Laenge="1200">
+        <FensterWerkzeugdaten TeileNr="1">
+          <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="8" TeileNr="2" WagenNr="1" FachNr="0" ProfilName="140301" Bezeichnung="140 001 RAMA BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="15" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="17" XPos="600" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="43" XPos="586.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="43" XPos="613.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="16" XPos="975" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="8" TeileNr="3" WagenNr="1" FachNr="0" ProfilName="140301" Bezeichnung="140 001 RAMA BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="237.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="387.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="43" XPos="586.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="43" XPos="613.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="813.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="963.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="975" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="8" TeileNr="4" WagenNr="1" FachNr="0" ProfilName="140301" Bezeichnung="140 001 RAMA BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="9" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="3" Breite="1126" Hoehe="549" Barcode="000191300300113">
+      <FensterTeiledaten FensterNr="9" TeileNr="1" WagenNr="1" FachNr="1" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="9" TeileNr="2" WagenNr="1" FachNr="1" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="324" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="9" TeileNr="3" WagenNr="1" FachNr="1" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="199.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="349.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="324" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="9" TeileNr="4" WagenNr="1" FachNr="1" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="10" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="3" Breite="1126" Hoehe="549" Barcode="000191300300127">
+      <FensterTeiledaten FensterNr="10" TeileNr="1" WagenNr="1" FachNr="2" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="10" TeileNr="2" WagenNr="1" FachNr="2" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="324" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="10" TeileNr="3" WagenNr="1" FachNr="2" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="199.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="349.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="324" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="10" TeileNr="4" WagenNr="1" FachNr="2" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="11" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="3" Breite="1126" Hoehe="549" Barcode="000191300300216">
+      <FensterTeiledaten FensterNr="11" TeileNr="1" WagenNr="1" FachNr="1" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="11" TeileNr="2" WagenNr="1" FachNr="1" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="324" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="11" TeileNr="3" WagenNr="1" FachNr="1" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="199.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="349.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="324" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="11" TeileNr="4" WagenNr="1" FachNr="1" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="12" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="3" Breite="1126" Hoehe="549" Barcode="000191300300220">
+      <FensterTeiledaten FensterNr="12" TeileNr="1" WagenNr="1" FachNr="2" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="12" TeileNr="2" WagenNr="1" FachNr="2" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="324" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="12" TeileNr="3" WagenNr="1" FachNr="2" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="199.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="349.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="324" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="12" TeileNr="4" WagenNr="1" FachNr="2" ProfilName="140320" Bezeichnung="140 020 SKRZ 77 BIALY" Laenge="549"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="13" Bezeichnung="Rama" Kommission="16/09755" Position="2" Breite="1200" Hoehe="1200" Barcode="000191300200109">
+      <FensterTeiledaten FensterNr="13" TeileNr="1" WagenNr="1" FachNr="0" ProfilName="101290" Bezeichnung="101.290_73 BIALY" Laenge="1200">
+        <FensterWerkzeugdaten TeileNr="1">
+          <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="13" TeileNr="2" WagenNr="1" FachNr="0" ProfilName="101290" Bezeichnung="101.290_73 BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="15" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="17" XPos="600" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="629.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="16" XPos="975" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="13" TeileNr="3" WagenNr="1" FachNr="0" ProfilName="101290" Bezeichnung="101.290_73 BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="238.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="388.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="629.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="812.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="962.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="975" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="13" TeileNr="4" WagenNr="1" FachNr="0" ProfilName="101290" Bezeichnung="101.290_73 BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="14" Bezeichnung="Rama" Kommission="16/09755" Position="2" Breite="1200" Hoehe="1200" Barcode="000191300200202">
+      <FensterTeiledaten FensterNr="14" TeileNr="1" WagenNr="1" FachNr="0" ProfilName="101290" Bezeichnung="101.290_73 BIALY" Laenge="1200">
+        <FensterWerkzeugdaten TeileNr="1">
+          <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="14" TeileNr="2" WagenNr="1" FachNr="0" ProfilName="101290" Bezeichnung="101.290_73 BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="15" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="17" XPos="600" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="629.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="16" XPos="975" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="14" TeileNr="3" WagenNr="1" FachNr="0" ProfilName="101290" Bezeichnung="101.290_73 BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="238.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="388.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="44" XPos="629.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="812.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="962.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="975" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="14" TeileNr="4" WagenNr="1" FachNr="0" ProfilName="101290" Bezeichnung="101.290_73 BIALY" Laenge="1200">
+        <FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="1" XPos="1200" YPos="0" ZPos="0" WkzPos="0"/>
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="15" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="2" Breite="1120" Hoehe="546" Barcode="000191300200113">
+      <FensterTeiledaten FensterNr="15" TeileNr="1" WagenNr="1" FachNr="1" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="15" TeileNr="2" WagenNr="1" FachNr="1" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="321" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="15" TeileNr="3" WagenNr="1" FachNr="1" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="198.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="348.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="321" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="15" TeileNr="4" WagenNr="1" FachNr="1" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="16" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="2" Breite="1120" Hoehe="546" Barcode="000191300200127">
+      <FensterTeiledaten FensterNr="16" TeileNr="1" WagenNr="1" FachNr="2" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="16" TeileNr="2" WagenNr="1" FachNr="2" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="321" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="16" TeileNr="3" WagenNr="1" FachNr="2" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="198.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="348.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="321" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="16" TeileNr="4" WagenNr="1" FachNr="2" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="17" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="2" Breite="1120" Hoehe="546" Barcode="000191300200216">
+      <FensterTeiledaten FensterNr="17" TeileNr="1" WagenNr="1" FachNr="1" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="17" TeileNr="2" WagenNr="1" FachNr="1" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="321" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="17" TeileNr="3" WagenNr="1" FachNr="1" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="198.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="348.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="321" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="17" TeileNr="4" WagenNr="1" FachNr="1" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546"/>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="18" Bezeichnung="Skrzydlo" Kommission="16/09755" Position="2" Breite="1120" Hoehe="546" Barcode="000191300200220">
+      <FensterTeiledaten FensterNr="18" TeileNr="1" WagenNr="1" FachNr="2" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterWerkzeugdaten TeileNr="1"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="18" TeileNr="2" WagenNr="1" FachNr="2" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="321" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="18" TeileNr="3" WagenNr="1" FachNr="2" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546">
+        <FensterBearb Wkz="0" BNr="19" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="198.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="31" XPos="348.0" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="20" XPos="321" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="18" TeileNr="4" WagenNr="1" FachNr="2" ProfilName="103341" Bezeichnung="103.341 SKRZ OKIENNE BIALY" Laenge="546"/>
+    </Fensterdaten>
+  </SchweissPutzDaten>
+</Datei>
