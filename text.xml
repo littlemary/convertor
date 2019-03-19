@@ -1,0 +1,20 @@
+    <Fensterdaten FensterNr="1" Bezeichnung="Konstrukzija 1" Kommission="128401obr" Position="1" Breite="1600" Hoehe="1200" Barcode="401111211000001">
+      <FensterTeiledaten FensterNr="1" TeileNr="1" WagenNr="1" FachNr="0" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1200">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="1" TeileNr="2" WagenNr="1" FachNr="0" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1200">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1386" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="25" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1426" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="500" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="485" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="1088" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="1" TeileNr="3" WagenNr="1" FachNr="0" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1200">
+          <FensterBearb Wkz="0" BNr="43" XPos="501" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="1" TeileNr="4" WagenNr="1" FachNr="0" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1200">
+      </FensterTeiledaten>
+    </Fensterdaten>
