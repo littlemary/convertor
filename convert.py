@@ -101,17 +101,17 @@ def myimportxml():
                         update = {barcode: "Не может быть Bnr=43 в Teile 4"}
                         errors_xml.update(update)
                     else:
-                        if xpos > L:
-                            update = {barcode: "xpos "+str(xpos)+" > L"}
+                        if xpos < L:
+                            update = {barcode: "xpos "+str(xpos)+" < Laenge"}
                             errors_xml.update(update)
                         res1 = math.fabs(Laenge - xpos)
-                        if res1 > L:
-                            update = {barcode: "Laenge("+str(Laenge)+") - xpos("+str(xpos)+") > L"}
+                        if res1 < L:
+                            update = {barcode: "Laenge("+str(Laenge)+") - xpos("+str(xpos)+") < L"}
                             errors_xml.update(update)
                         if bnr2!=0:
                             res2 = math.fabs(bnr1 - bnr2)
-                            if res2 > L:
-                                update = {barcode: "xpos1 (" +str(bnr1)+ ") - xpos2 (" +str(bnr2)+") > L"}
+                            if res2 < L:
+                                update = {barcode: "xpos1 (" +str(bnr1)+ ") - xpos2 (" +str(bnr2)+") < L"}
                                 errors_xml.update(update)
     return 1
 
