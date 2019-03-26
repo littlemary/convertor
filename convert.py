@@ -3,8 +3,10 @@ from tkinter import filedialog as fd
 import os
 import xml.dom.minidom
 import math
+import xml.etree.ElementTree as ET
+import codecs
 
-mypath = "E:/python/"
+mypath = "E:/python/zavod/"
 maxY = 28500
 minY = 5000
 maxX = 30900
@@ -15,6 +17,7 @@ is_obrabot = 0
 error_vars = []
 errors_xml = {}
 writefilename = ''
+writefilenamexml = ''
 filename=''
 filenamexml=''
 kols_row = 0
@@ -60,6 +63,84 @@ def writetofile(arrfile):
         fw.close()
     else:
         return 0
+
+
+def convertxml():
+    global filenamexml
+    writefilenamexml = mypath + os.path.basename(filenamexml)
+
+    try:
+        f = open(filenamexml, 'r')
+    except:
+        print('error')
+    str_f = ''
+    for line in f:
+        str_f = str_f + line.strip()
+
+    tree = ET.ElementTree(ET.fromstring(str_f))
+    # tree = ET.parse(filenamexml)
+    root = tree.getroot()
+    for c in root:
+        for child in c:  # <Fensterdaten
+            child.text = ""
+            hoehe = child.attrib['Hoehe']
+            for cur in child:
+                cur.attrib['Laenge'] = hoehe
+                for cur1 in cur:
+                    cur1.text = ""
+                if cur.attrib['TeileNr'] == "1":
+                    cur.text = ""
+                    for cur_ in cur:
+                        new_tag = ET.SubElement(cur_, 'FensterBearb')
+                        new_tag.attrib['Wkz'] = '0'
+                        new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
+                        new_tag.attrib['xPos'] = '0'
+                        new_tag.attrib['yPos'] = '0'
+                        new_tag.attrib['zPos'] = '0'
+                        new_tag.attrib['WkzPos'] = '0'
+                        new_tag = ET.SubElement(cur_, 'FensterBearb')
+                        new_tag.attrib['Wkz'] = '0'
+                        new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
+                        new_tag.attrib['xPos'] = '640'
+                        new_tag.attrib['yPos'] = '0'
+                        new_tag.attrib['zPos'] = '0'
+                        new_tag.attrib['WkzPos'] = '0'
+                if cur.attrib['TeileNr'] == "4":
+                    cur.text = ""
+                    new_tag = ET.SubElement(cur, 'FensterBearb')
+                    new_tag.attrib['Wkz'] = '0'
+                    new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
+                    new_tag.attrib['xPos'] = '0'
+                    new_tag.attrib['yPos'] = '0'
+                    new_tag.attrib['zPos'] = '0'
+                    new_tag.attrib['WkzPos'] = '0'
+                    new_tag = ET.SubElement(cur, 'FensterBearb')
+                    new_tag.attrib['Wkz'] = '0'
+                    new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
+                    new_tag.attrib['xPos'] = '640'
+                    new_tag.attrib['yPos'] = '0'
+                    new_tag.attrib['zPos'] = '0'
+                    new_tag.attrib['WkzPos'] = '0'
+    strfile = xml.dom.minidom.parseString(
+        ET.tostring(
+            tree.getroot(),
+            'ANSI')).toprettyxml('  ')
+    strfile = strfile.strip()
+    strfile = strfile.replace('\n', '\r\n')
+    strfile = strfile.replace('<?xml version="1.0" ?>', '<?xml version="1.0" encoding="UTF-8"?>')
+    str1 = '<FensterBearb BNr="1" Wkz="0" WkzPos="0" xPos="0" yPos="0" zPos="0"/>'
+    str2 = '<FensterBearb WkzPos="0" BNr="1" xPos="0" yPos="0" zPos="0" Wkz="0"/>'
+    strfile = strfile.replace(str1, str2)
+    str3 = '<FensterBearb BNr="1" Wkz="0" WkzPos="0" xPos="640" yPos="0" zPos="0"/>'
+    str4 = '<FensterBearb WkzPos="0" BNr="1" xPos="0" yPos="0" zPos="640" Wkz="0" />'
+    strfile = strfile.replace(str3, str4)
+    try:
+        fichierTemp = codecs.open(writefilenamexml, "w", encoding="ansi", errors="ignore")
+        fichierTemp.write(strfile)
+        fichierTemp.close()
+    except:
+        print("Ошибка открытия файла")
+
 
 def myimportxml():
     global filenamexml
@@ -113,6 +194,7 @@ def myimportxml():
                             if res2 < L:
                                 update = {barcode: "xpos1 (" +str(bnr1)+ ") - xpos2 (" +str(bnr2)+") < L"}
                                 errors_xml.update(update)
+    convertxml()
     return 1
 
 def myimporttxt():
