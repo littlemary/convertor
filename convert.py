@@ -101,7 +101,7 @@ def convertxml():
                         new_tag = ET.SubElement(cur_, 'FensterBearb')
                         new_tag.attrib['Wkz'] = '0'
                         new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
-                        new_tag.attrib['xPos'] = '640'
+                        new_tag.attrib['xPos'] = hoehe
                         new_tag.attrib['yPos'] = '0'
                         new_tag.attrib['zPos'] = '0'
                         new_tag.attrib['WkzPos'] = '0'
@@ -117,7 +117,7 @@ def convertxml():
                     new_tag = ET.SubElement(cur, 'FensterBearb')
                     new_tag.attrib['Wkz'] = '0'
                     new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
-                    new_tag.attrib['xPos'] = '640'
+                    new_tag.attrib['xPos'] = hoehe
                     new_tag.attrib['yPos'] = '0'
                     new_tag.attrib['zPos'] = '0'
                     new_tag.attrib['WkzPos'] = '0'
