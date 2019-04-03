@@ -1,4 +1,4 @@
-from tkinter import *
+﻿from tkinter import *
 from tkinter import filedialog as fd
 import os
 import xml.dom.minidom
@@ -6,7 +6,7 @@ import math
 import xml.etree.ElementTree as ET
 import codecs
 
-mypath = "E:/python/zavod/"
+mypath = "C:/AdateMSP/"
 maxY = 28500
 minY = 5000
 maxX = 30900
@@ -124,18 +124,18 @@ def convertxml():
     strfile = xml.dom.minidom.parseString(
         ET.tostring(
             tree.getroot(),
-            'ANSI')).toprettyxml('  ')
+            'UTF-8')).toprettyxml('  ')
     strfile = strfile.strip()
     strfile = strfile.replace('\n', '\r\n')
     strfile = strfile.replace('<?xml version="1.0" ?>', '<?xml version="1.0" encoding="UTF-8"?>')
     str1 = '<FensterBearb BNr="1" Wkz="0" WkzPos="0" xPos="0" yPos="0" zPos="0"/>'
-    str2 = '<FensterBearb WkzPos="0" BNr="1" xPos="0" yPos="0" zPos="0" Wkz="0"/>'
+    str2 = '<FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>'
     strfile = strfile.replace(str1, str2)
     str3 = '<FensterBearb BNr="1" Wkz="0" WkzPos="0" xPos="640" yPos="0" zPos="0"/>'
-    str4 = '<FensterBearb WkzPos="0" BNr="1" xPos="0" yPos="0" zPos="640" Wkz="0" />'
+    str4 = '<FensterBearb Wkz="0" BNr="1" XPos="640" YPos="0" ZfPos="0" WkzPos="0"/>'
     strfile = strfile.replace(str3, str4)
     try:
-        fichierTemp = codecs.open(writefilenamexml, "w", encoding="ansi", errors="ignore")
+        fichierTemp = codecs.open(writefilenamexml, "w", encoding="UTF-8", errors="ignore")
         fichierTemp.write(strfile)
         fichierTemp.close()
     except:
