@@ -7,6 +7,7 @@ import xml.etree.ElementTree as ET
 import codecs
 
 mypath = "C:/AdateMSP/"
+#mypath = "E:/python/"
 maxY = 28500
 minY = 5000
 maxX = 30900
@@ -94,32 +95,32 @@ def convertxml():
                         new_tag = ET.SubElement(cur_, 'FensterBearb')
                         new_tag.attrib['Wkz'] = '0'
                         new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
-                        new_tag.attrib['xPos'] = '0'
-                        new_tag.attrib['yPos'] = '0'
-                        new_tag.attrib['zPos'] = '0'
+                        new_tag.attrib['XPos'] = '0'
+                        new_tag.attrib['YPos'] = '0'
+                        new_tag.attrib['ZPos'] = '0'
                         new_tag.attrib['WkzPos'] = '0'
                         new_tag = ET.SubElement(cur_, 'FensterBearb')
                         new_tag.attrib['Wkz'] = '0'
                         new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
-                        new_tag.attrib['xPos'] = hoehe
-                        new_tag.attrib['yPos'] = '0'
-                        new_tag.attrib['zPos'] = '0'
+                        new_tag.attrib['XPos'] = hoehe
+                        new_tag.attrib['YPos'] = '0'
+                        new_tag.attrib['ZPos'] = '0'
                         new_tag.attrib['WkzPos'] = '0'
                 if cur.attrib['TeileNr'] == "4":
                     cur.text = ""
                     new_tag = ET.SubElement(cur, 'FensterBearb')
                     new_tag.attrib['Wkz'] = '0'
                     new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
-                    new_tag.attrib['xPos'] = '0'
-                    new_tag.attrib['yPos'] = '0'
-                    new_tag.attrib['zPos'] = '0'
+                    new_tag.attrib['XPos'] = '0'
+                    new_tag.attrib['YPos'] = '0'
+                    new_tag.attrib['ZPos'] = '0'
                     new_tag.attrib['WkzPos'] = '0'
                     new_tag = ET.SubElement(cur, 'FensterBearb')
                     new_tag.attrib['Wkz'] = '0'
                     new_tag.attrib['BNr'] = '1'  # must be str; cannot be an int
-                    new_tag.attrib['xPos'] = hoehe
-                    new_tag.attrib['yPos'] = '0'
-                    new_tag.attrib['zPos'] = '0'
+                    new_tag.attrib['XPos'] = hoehe
+                    new_tag.attrib['YPos'] = '0'
+                    new_tag.attrib['ZPos'] = '0'
                     new_tag.attrib['WkzPos'] = '0'
     strfile = xml.dom.minidom.parseString(
         ET.tostring(
@@ -128,12 +129,6 @@ def convertxml():
     strfile = strfile.strip()
     strfile = strfile.replace('\n', '\r\n')
     strfile = strfile.replace('<?xml version="1.0" ?>', '<?xml version="1.0" encoding="UTF-8"?>')
-    str1 = '<FensterBearb BNr="1" Wkz="0" WkzPos="0" xPos="0" yPos="0" zPos="0"/>'
-    str2 = '<FensterBearb Wkz="0" BNr="1" XPos="0" YPos="0" ZPos="0" WkzPos="0"/>'
-    strfile = strfile.replace(str1, str2)
-    str3 = '<FensterBearb BNr="1" Wkz="0" WkzPos="0" xPos="640" yPos="0" zPos="0"/>'
-    str4 = '<FensterBearb Wkz="0" BNr="1" XPos="640" YPos="0" ZfPos="0" WkzPos="0"/>'
-    strfile = strfile.replace(str3, str4)
     try:
         fichierTemp = codecs.open(writefilenamexml, "w", encoding="UTF-8", errors="ignore")
         fichierTemp.write(strfile)
