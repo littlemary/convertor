@@ -68,6 +68,9 @@ def writetofile(arrfile):
 
 def convertxml():
     global filenamexml
+    newtags2 = []
+    mas2_el = []
+    mas2 = []
     writefilenamexml = mypath + os.path.basename(filenamexml)
 
     try:
@@ -122,6 +125,29 @@ def convertxml():
                     new_tag.attrib['YPos'] = '0'
                     new_tag.attrib['ZPos'] = '0'
                     new_tag.attrib['WkzPos'] = '0'
+
+                if cur.attrib['TeileNr']=="2":
+                    mas2_el = cur.attrib
+                    for cur2_ in cur:
+                        if int(cur2_.attrib['BNr'])== 43:
+                            newtags2.append(cur2_.attrib)
+                    #update = {"cur1": mas2_el, "cur2":newtags2}
+                    child.remove(cur)
+
+                    new_tag = ET.SubElement(child, 'FensterTeiledaten')
+                    new_tag.attrib = mas2_el
+                    for newtags2_ in newtags2:
+                        new_tag1 = ET.SubElement(new_tag, 'FensterBearb')
+                        new_tag1.attrib = newtags2_
+
+                    newtags2.clear()
+                    #mas2.update(update)
+
+        #for child in c:
+         #   for cur in child:
+          #      if cur.attrib['TeileNr']=="2":
+           #         child.remove(cur)
+
     strfile = xml.dom.minidom.parseString(
         ET.tostring(
             tree.getroot(),
