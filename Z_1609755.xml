@@ -11,7 +11,7 @@
       <FensterTeiledaten FensterNr="1" TeileNr="2" WagenNr="1" FachNr="0" ProfilName="101233" Bezeichnung="101.233 RAMA OKR BIALY" Laenge="1200">
         <FensterBearb Wkz="0" BNr="15" XPos="225" YPos="0" ZPos="30" WkzPos="0"/>
         <FensterBearb Wkz="0" BNr="17" XPos="600" YPos="0" ZPos="30" WkzPos="0"/>
-        <FensterBearb Wkz="0" BNr="44" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
+        <FensterBearb Wkz="0" BNr="43" XPos="570.5" YPos="0" ZPos="0" WkzPos="0"/>
         <FensterBearb Wkz="0" BNr="44" XPos="629.5" YPos="0" ZPos="0" WkzPos="0"/>
         <FensterBearb Wkz="0" BNr="16" XPos="975" YPos="0" ZPos="30" WkzPos="0"/>
       </FensterTeiledaten>
