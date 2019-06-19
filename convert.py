@@ -81,6 +81,13 @@ def convertxml():
     for line in f:
         str_f = str_f + line.strip()
 
+    symbols = (u"абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+               u"abvgdeejzijklmnoprstufhzcss_y_euaABVGDEEJZIJKLMNOPRSTUFHZCSS_Y_EUA")
+
+    tr = {ord(a): ord(b) for a, b in zip(*symbols)}
+    str_f = str_f.translate(tr)  # looks good
+
+
     tree = ET.ElementTree(ET.fromstring(str_f))
     # tree = ET.parse(filenamexml)
     root = tree.getroot()
