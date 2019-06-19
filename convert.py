@@ -245,7 +245,18 @@ def myconvert():
             return 0
     else:
         return 0
-    writefilename = mypath + os.path.basename(filename)
+    filename_w = os.path.basename(filename)
+    symbols = (u"абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+               u"abvgdeejzijklmnoprstufhzcss_y_euaABVGDEEJZIJKLMNOPRSTUFHZCSS_Y_EUA")
+
+    tr = {ord(a): ord(b) for a, b in zip(*symbols)}
+    filename_w = filename_w.translate(tr)  # looks good
+    filename_w = filename_w.replace(",", ".")
+    filename_w = filename_w.replace("-", "_")
+    filename_w = filename_w.replace("/", "_")
+
+
+    writefilename = mypath + filename_w
     kol=0
     arr_rows = {}
     rows = {}

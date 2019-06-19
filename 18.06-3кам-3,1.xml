@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Datei Name="18.06-3кам-3,1.xml">
+  <SchweissPutzDaten Name="18.06-3кам-3,1">
+    <Fensterdaten FensterNr="1" Bezeichnung="Konstrukzija 1" Kommission="143705" Position="1" Breite="750" Hoehe="2170" Barcode="705131211000001">
+      <FensterTeiledaten FensterNr="1" TeileNr="1" WagenNr="1" FachNr="1" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2170">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="1" TeileNr="2" WagenNr="1" FachNr="1" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="750">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="536" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="576" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="1" TeileNr="3" WagenNr="1" FachNr="1" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="750">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="1" TeileNr="4" WagenNr="1" FachNr="1" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2170">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="2" Bezeichnung="Konstrukzija 2" Kommission="143705" Position="2" Breite="1150" Hoehe="1320" Barcode="705141111000002">
+      <FensterTeiledaten FensterNr="2" TeileNr="1" WagenNr="1" FachNr="2" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1320">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="2" TeileNr="2" WagenNr="1" FachNr="2" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1150">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="936" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="976" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="683" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="2" TeileNr="3" WagenNr="1" FachNr="2" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1150">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="2" TeileNr="4" WagenNr="1" FachNr="2" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1320">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="3" Bezeichnung="Konstrukzija 1" Kommission="143716" Position="3" Breite="1180" Hoehe="1160" Barcode="716111211000003">
+      <FensterTeiledaten FensterNr="3" TeileNr="1" WagenNr="1" FachNr="3" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1160">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="3" TeileNr="2" WagenNr="1" FachNr="3" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="966" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1006" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="590" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="575" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="3" TeileNr="3" WagenNr="1" FachNr="3" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+          <FensterBearb Wkz="0" BNr="43" XPos="591" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="3" TeileNr="4" WagenNr="1" FachNr="3" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1160">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="4" Bezeichnung="Konstrukzija 2" Kommission="143716" Position="4" Breite="1180" Hoehe="1160" Barcode="716121211000004">
+      <FensterTeiledaten FensterNr="4" TeileNr="1" WagenNr="1" FachNr="4" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1160">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="4" TeileNr="2" WagenNr="1" FachNr="4" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="966" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1006" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="590" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="575" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="4" TeileNr="3" WagenNr="1" FachNr="4" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+          <FensterBearb Wkz="0" BNr="43" XPos="591" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="4" TeileNr="4" WagenNr="1" FachNr="4" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1160">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="5" Bezeichnung="Konstrukzija 3" Kommission="143716" Position="5" Breite="1180" Hoehe="1160" Barcode="716131111000005">
+      <FensterTeiledaten FensterNr="5" TeileNr="1" WagenNr="1" FachNr="5" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1160">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="5" TeileNr="2" WagenNr="1" FachNr="5" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="966" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1006" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="590" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="575" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="5" TeileNr="3" WagenNr="1" FachNr="5" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+          <FensterBearb Wkz="0" BNr="43" XPos="591" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="5" TeileNr="4" WagenNr="1" FachNr="5" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1160">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="6" Bezeichnung="Konstrukzija 3" Kommission="143716" Position="6" Breite="1180" Hoehe="1160" Barcode="716131112000006">
+      <FensterTeiledaten FensterNr="6" TeileNr="1" WagenNr="1" FachNr="6" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1160">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="6" TeileNr="2" WagenNr="1" FachNr="6" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="966" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1006" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="590" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="575" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="6" TeileNr="3" WagenNr="1" FachNr="6" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+          <FensterBearb Wkz="0" BNr="43" XPos="591" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="6" TeileNr="4" WagenNr="1" FachNr="6" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1160">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="7" Bezeichnung="Konstrukzija 4" Kommission="143716" Position="7" Breite="620" Hoehe="1180" Barcode="716141211000007">
+      <FensterTeiledaten FensterNr="7" TeileNr="1" WagenNr="1" FachNr="7" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="7" TeileNr="2" WagenNr="1" FachNr="7" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="620">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="406" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="446" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="7" TeileNr="3" WagenNr="1" FachNr="7" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="620">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="7" TeileNr="4" WagenNr="1" FachNr="7" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1180">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="8" Bezeichnung="Konstrukzija 5" Kommission="143716" Position="8" Breite="1190" Hoehe="1270" Barcode="716151111000008">
+      <FensterTeiledaten FensterNr="8" TeileNr="1" WagenNr="1" FachNr="8" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="8" TeileNr="2" WagenNr="1" FachNr="8" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1190">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="976" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1016" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="595" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="580" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="8" TeileNr="3" WagenNr="1" FachNr="8" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1190">
+          <FensterBearb Wkz="0" BNr="43" XPos="596" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="8" TeileNr="4" WagenNr="1" FachNr="8" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="9" Bezeichnung="Konstrukzija 6" Kommission="143716" Position="9" Breite="1190" Hoehe="1270" Barcode="716161211000009">
+      <FensterTeiledaten FensterNr="9" TeileNr="1" WagenNr="1" FachNr="9" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="9" TeileNr="2" WagenNr="1" FachNr="9" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1190">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="976" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1016" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="595" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="580" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="9" TeileNr="3" WagenNr="1" FachNr="9" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1190">
+          <FensterBearb Wkz="0" BNr="43" XPos="596" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="9" TeileNr="4" WagenNr="1" FachNr="9" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="10" Bezeichnung="Konstrukzija 6" Kommission="143716" Position="10" Breite="1190" Hoehe="1270" Barcode="716161212000010">
+      <FensterTeiledaten FensterNr="10" TeileNr="1" WagenNr="1" FachNr="10" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="10" TeileNr="2" WagenNr="1" FachNr="10" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1190">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="976" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1016" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="595" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="580" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="10" TeileNr="3" WagenNr="1" FachNr="10" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1190">
+          <FensterBearb Wkz="0" BNr="43" XPos="596" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="10" TeileNr="4" WagenNr="1" FachNr="10" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="11" Bezeichnung="Konstrukzija 7" Kommission="143716" Position="11" Breite="730" Hoehe="2100" Barcode="716171111000011">
+      <FensterTeiledaten FensterNr="11" TeileNr="1" WagenNr="1" FachNr="11" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2100">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="11" TeileNr="2" WagenNr="1" FachNr="11" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="730">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="516" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="556" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="11" TeileNr="3" WagenNr="1" FachNr="11" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="730">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="11" TeileNr="4" WagenNr="1" FachNr="11" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2100">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="12" Bezeichnung="Konstrukzija 8" Kommission="143716" Position="12" Breite="600" Hoehe="1270" Barcode="716181211000012">
+      <FensterTeiledaten FensterNr="12" TeileNr="1" WagenNr="1" FachNr="12" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="12" TeileNr="2" WagenNr="1" FachNr="12" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="600">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="386" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="426" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="12" TeileNr="3" WagenNr="1" FachNr="12" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="600">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="12" TeileNr="4" WagenNr="1" FachNr="12" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="13" Bezeichnung="Konstrukzija 8" Kommission="143716" Position="13" Breite="600" Hoehe="1270" Barcode="716181112000013">
+      <FensterTeiledaten FensterNr="13" TeileNr="1" WagenNr="1" FachNr="13" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="13" TeileNr="2" WagenNr="1" FachNr="13" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="600">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="386" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="426" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="13" TeileNr="3" WagenNr="1" FachNr="13" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="600">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="13" TeileNr="4" WagenNr="1" FachNr="13" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1270">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="14" Bezeichnung="Konstrukzija 9" Kommission="143716" Position="14" Breite="730" Hoehe="2100" Barcode="716191211000014">
+      <FensterTeiledaten FensterNr="14" TeileNr="1" WagenNr="1" FachNr="14" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2100">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="14" TeileNr="2" WagenNr="1" FachNr="14" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="730">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="516" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="556" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="14" TeileNr="3" WagenNr="1" FachNr="14" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="730">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="14" TeileNr="4" WagenNr="1" FachNr="14" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2100">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="15" Bezeichnung="Konstrukzija 1" Kommission="143718" Position="15" Breite="1800" Hoehe="1510" Barcode="718111211000015">
+      <FensterTeiledaten FensterNr="15" TeileNr="1" WagenNr="1" FachNr="15" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1510">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="15" TeileNr="2" WagenNr="1" FachNr="15" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1800">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1586" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1626" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="600" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="585" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="1200" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="1185" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="15" TeileNr="3" WagenNr="1" FachNr="15" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1800">
+          <FensterBearb Wkz="0" BNr="43" XPos="601" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="1201" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="15" TeileNr="4" WagenNr="1" FachNr="15" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1510">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="16" Bezeichnung="Konstrukzija 1" Kommission="143718" Position="16" Breite="1800" Hoehe="1510" Barcode="718111212000016">
+      <FensterTeiledaten FensterNr="16" TeileNr="1" WagenNr="1" FachNr="16" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1510">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="16" TeileNr="2" WagenNr="1" FachNr="16" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1800">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1586" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1626" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="600" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="585" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="1200" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="1185" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="16" TeileNr="3" WagenNr="1" FachNr="16" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1800">
+          <FensterBearb Wkz="0" BNr="43" XPos="601" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="1201" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="16" TeileNr="4" WagenNr="1" FachNr="16" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1510">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="17" Bezeichnung="Konstrukzija 2" Kommission="143718" Position="17" Breite="760" Hoehe="1140" Barcode="718121211000017">
+      <FensterTeiledaten FensterNr="17" TeileNr="1" WagenNr="1" FachNr="17" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1140">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="17" TeileNr="2" WagenNr="1" FachNr="17" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="760">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="546" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="586" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="17" TeileNr="3" WagenNr="1" FachNr="17" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="760">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="17" TeileNr="4" WagenNr="1" FachNr="17" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1140">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="18" Bezeichnung="Konstrukzija 1" Kommission="143720" Position="18" Breite="690" Hoehe="2200" Barcode="720111111000018">
+      <FensterTeiledaten FensterNr="18" TeileNr="1" WagenNr="1" FachNr="18" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2200">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="18" TeileNr="2" WagenNr="1" FachNr="18" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="690">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="476" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="516" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="18" TeileNr="3" WagenNr="1" FachNr="18" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="690">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="18" TeileNr="4" WagenNr="1" FachNr="18" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2200">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="19" Bezeichnung="Konstrukzija 2" Kommission="143720" Position="19" Breite="1390" Hoehe="1390" Barcode="720121111000019">
+      <FensterTeiledaten FensterNr="19" TeileNr="1" WagenNr="1" FachNr="19" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="19" TeileNr="2" WagenNr="1" FachNr="19" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1176" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1216" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="695" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="680" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="19" TeileNr="3" WagenNr="1" FachNr="19" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+          <FensterBearb Wkz="0" BNr="43" XPos="696" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="19" TeileNr="4" WagenNr="1" FachNr="19" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="20" Bezeichnung="Konstrukzija 1" Kommission="143727" Position="20" Breite="1260" Hoehe="1400" Barcode="727111111000020">
+      <FensterTeiledaten FensterNr="20" TeileNr="1" WagenNr="1" FachNr="20" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1400">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="20" TeileNr="2" WagenNr="1" FachNr="20" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1260">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1046" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1086" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="630" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="615" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="20" TeileNr="3" WagenNr="1" FachNr="20" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1260">
+          <FensterBearb Wkz="0" BNr="43" XPos="631" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="20" TeileNr="4" WagenNr="1" FachNr="20" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1400">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="21" Bezeichnung="Konstrukzija 1" Kommission="143784*" Position="21" Breite="1850" Hoehe="1390" Barcode="784111211000021">
+      <FensterTeiledaten FensterNr="21" TeileNr="1" WagenNr="1" FachNr="21" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="21" TeileNr="2" WagenNr="1" FachNr="21" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1850">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1636" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1676" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="605" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="1000" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="985" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="1533" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="21" TeileNr="3" WagenNr="1" FachNr="21" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1850">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="21" TeileNr="4" WagenNr="1" FachNr="21" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="22" Bezeichnung="Konstrukzija 2" Kommission="143784*" Position="22" Breite="1850" Hoehe="1390" Barcode="784121211000022">
+      <FensterTeiledaten FensterNr="22" TeileNr="1" WagenNr="1" FachNr="22" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="22" TeileNr="2" WagenNr="1" FachNr="22" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1850">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1636" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1676" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="530" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="850" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="835" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="1458" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="22" TeileNr="3" WagenNr="1" FachNr="22" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1850">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="22" TeileNr="4" WagenNr="1" FachNr="22" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="23" Bezeichnung="Konstrukzija 3" Kommission="143784*" Position="23" Breite="1820" Hoehe="1390" Barcode="784131111000023">
+      <FensterTeiledaten FensterNr="23" TeileNr="1" WagenNr="1" FachNr="23" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="23" TeileNr="2" WagenNr="1" FachNr="23" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1820">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1606" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1646" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="607" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="592" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="1213" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="1198" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="23" TeileNr="3" WagenNr="1" FachNr="23" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1820">
+          <FensterBearb Wkz="0" BNr="43" XPos="608" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="1214" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="23" TeileNr="4" WagenNr="1" FachNr="23" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1390">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="24" Bezeichnung="Konstrukzija 1" Kommission="143807" Position="24" Breite="720" Hoehe="2180" Barcode="807111211000024">
+      <FensterTeiledaten FensterNr="24" TeileNr="1" WagenNr="1" FachNr="24" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2180">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="24" TeileNr="2" WagenNr="1" FachNr="24" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="720">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="506" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="546" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="24" TeileNr="3" WagenNr="1" FachNr="24" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="720">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="24" TeileNr="4" WagenNr="1" FachNr="24" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="2180">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="25" Bezeichnung="Konstrukzija 2" Kommission="143807" Position="25" Breite="1380" Hoehe="1340" Barcode="807121211000025">
+      <FensterTeiledaten FensterNr="25" TeileNr="1" WagenNr="1" FachNr="25" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1340">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="25" TeileNr="2" WagenNr="1" FachNr="25" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1380">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1166" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1206" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="698" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="25" TeileNr="3" WagenNr="1" FachNr="25" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1380">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="25" TeileNr="4" WagenNr="1" FachNr="25" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1340">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="26" Bezeichnung="Konstrukzija 1" Kommission="143793" Position="26" Breite="870" Hoehe="1410" Barcode="793111111000026">
+      <FensterTeiledaten FensterNr="26" TeileNr="1" WagenNr="1" FachNr="26" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1410">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="26" TeileNr="2" WagenNr="1" FachNr="26" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="870">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="656" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="696" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="543" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="26" TeileNr="3" WagenNr="1" FachNr="26" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="870">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="26" TeileNr="4" WagenNr="1" FachNr="26" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1410">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="27" Bezeichnung="Konstrukzija 1" Kommission="143848" Position="27" Breite="1600" Hoehe="815" Barcode="848111211000027">
+      <FensterTeiledaten FensterNr="27" TeileNr="1" WagenNr="1" FachNr="27" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="815">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="27" TeileNr="2" WagenNr="1" FachNr="27" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1600">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1386" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1426" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="800" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="785" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="1308" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="27" TeileNr="3" WagenNr="1" FachNr="27" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1600">
+          <FensterBearb Wkz="0" BNr="43" XPos="801" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="27" TeileNr="4" WagenNr="1" FachNr="27" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="815">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="28" Bezeichnung="Konstrukzija 1" Kommission="143848" Position="28" Breite="1600" Hoehe="815" Barcode="848111212000028">
+      <FensterTeiledaten FensterNr="28" TeileNr="1" WagenNr="1" FachNr="28" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="815">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="28" TeileNr="2" WagenNr="1" FachNr="28" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1600">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="1386" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="1426" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="43" XPos="800" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="17" XPos="785" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="1308" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="28" TeileNr="3" WagenNr="1" FachNr="28" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="1600">
+          <FensterBearb Wkz="0" BNr="43" XPos="801" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="28" TeileNr="4" WagenNr="1" FachNr="28" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="815">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="29" Bezeichnung="Konstrukzija 1" Kommission="143843" Position="29" Breite="900" Hoehe="620" Barcode="843111111000029">
+      <FensterTeiledaten FensterNr="29" TeileNr="1" WagenNr="1" FachNr="29" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="620">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="29" TeileNr="2" WagenNr="1" FachNr="29" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="900">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="686" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="726" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="558" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="29" TeileNr="3" WagenNr="1" FachNr="29" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="900">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="29" TeileNr="4" WagenNr="1" FachNr="29" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="620">
+      </FensterTeiledaten>
+    </Fensterdaten>
+    <Fensterdaten FensterNr="30" Bezeichnung="Konstrukzija 2" Kommission="143843" Position="30" Breite="890" Hoehe="440" Barcode="843121211000030">
+      <FensterTeiledaten FensterNr="30" TeileNr="1" WagenNr="1" FachNr="30" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="440">
+        <FensterWerkzeugdaten TeileNr="1">
+        </FensterWerkzeugdaten>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="30" TeileNr="2" WagenNr="1" FachNr="30" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="890">
+          <FensterBearb Wkz="0" BNr="11" XPos="180" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="12" XPos="676" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="140" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="14" XPos="716" YPos="0" ZPos="30" WkzPos="0"/>
+          <FensterBearb Wkz="0" BNr="11" XPos="553" YPos="0" ZPos="30" WkzPos="0"/>
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="30" TeileNr="3" WagenNr="1" FachNr="30" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="890">
+      </FensterTeiledaten>
+      <FensterTeiledaten FensterNr="30" TeileNr="4" WagenNr="1" FachNr="30" ProfilName="557002" Bezeichnung="557002-801 Rama 64/60mm  ECOSOL-60" Laenge="440">
+      </FensterTeiledaten>
+    </Fensterdaten>
+  </SchweissPutzDaten>
+</Datei>
